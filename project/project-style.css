@@ -9,7 +9,7 @@ body {
     background-color: wheat;
 }
 
-/* ---- home page start ---- */
+/*  home page start ---- */
 .home-page-section {
     height: 100%;
     width: 100%;
@@ -19,13 +19,27 @@ body {
 .header {
     height: 20%;
     width: 100%;
-    background-color: rgb(67, 66, 65);
+    background-color: rgb(0, 0, 0);
+    display: flex;
+}
+.logo-box{
+     height: 100%;
+    width: 30%;
+    
+  
+
+}
+.button-box{
+    height: 100%;
+    width: 70%;
+    background-color: rgb(255, 138, 22);
+ 
 }
 
 .home-detials {
     height: 80%;
     width: 100%;
-    background-color: rgb(59, 44, 29);
+    background-color: rgb(255, 138, 22);
     display: flex;
 }
 .detials-box-one{
@@ -42,10 +56,11 @@ img{
       height: 100%;
     width: 100%;
 }
+/* -----------------  home page End -  */
 
 
 
-/*  */
+/*   section two start ------ */
 .section-two {
     height: 100%;
     width: 100%;
