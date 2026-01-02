@@ -25,11 +25,15 @@ body {
 .logo-box{
      height: 100%;
     width: 30%;
+    display: flex;
+    justify-content: center;
     
-  
-
 }
-.button-box{
+.header-logo{
+    height: 80%;
+    width: 50%;
+}
+.header-button-box{
     height: 100%;
     width: 70%;
     background-color: rgb(255, 138, 22);
